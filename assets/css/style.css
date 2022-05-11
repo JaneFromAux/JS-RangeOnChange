@@ -1,0 +1,10 @@
+div {
+    width: 50vw;
+    height: 50vh;
+    padding: 25vh 25vw;
+}
+
+
+#rangeValue {
+    display: block;
+}
